@@ -1,22 +1,3 @@
-Testing. 101 ...
-103
+Feature 1 is implementing...
 
-104
-105 ....
-
-106 .... 106
-106 Again
-
-107.
-
-108....
-
-109.....
-
-Change On Master...
-
-110**** From Origin/master New Branch 110 ****
-
-master changes.
-
-201
+Feature 2 is on the way...
